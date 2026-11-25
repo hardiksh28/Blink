@@ -1,0 +1,8 @@
+.env
+data
+node_modules
+evidence
+rea-evidence.json
+rea-summary.json
+prompt.txt
+.git
