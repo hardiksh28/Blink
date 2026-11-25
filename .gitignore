@@ -1,7 +1,2 @@
-data/
 node_modules/
 .env
-evidence/
-rea-evidence.json
-rea-summary.json
-prompt.txt

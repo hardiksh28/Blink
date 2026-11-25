@@ -1,0 +1,38 @@
+{
+  "id": "0df8ac05-8cf2-46d8-b320-a2f83ed04f86",
+  "title": "A place for your ideas",
+  "slug": "test-page",
+  "description": "A simple page made with Card Studio.",
+  "theme": {
+    "background": "#f6f3ed",
+    "surface": "#ffffff",
+    "text": "#25231f",
+    "accent": "#315e4d",
+    "font": "sans"
+  },
+  "blocks": [
+    {
+      "id": "f60a9aef-2b7a-487d-b9db-389d236afab6",
+      "type": "eyebrow",
+      "text": "YOUR SPACE ON THE WEB"
+    },
+    {
+      "id": "aa5e7bb5-7f9c-4c36-9cbb-5b6c9cb9a58b",
+      "type": "heading",
+      "text": "Make something worth sharing."
+    },
+    {
+      "id": "73ae8a3c-6fc9-409d-ac45-accd07c633eb",
+      "type": "text",
+      "text": "A thoughtful little page for your work, your story, or your next big idea."
+    },
+    {
+      "id": "a7839d90-0d0f-45a9-935f-df96fd36f44c",
+      "type": "button",
+      "text": "Get in touch",
+      "url": "mailto:hello@example.com"
+    }
+  ],
+  "updatedAt": "2026-11-25T19:24:06.567Z",
+  "publishedAt": "2026-11-25T19:24:06.567Z"
+}

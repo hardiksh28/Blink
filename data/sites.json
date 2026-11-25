@@ -1,0 +1,406 @@
+{
+  "sites": [
+    {
+      "id": "30e531a3-60d8-4377-88c2-f0a7e26825f0",
+      "title": "Eclipse: Shadows Rise – Official Launch",
+      "description": "A striking launch page introducing the upcoming action‑adventure game Eclipse: Shadows Rise, highlighting its world, gameplay, and early‑access sign‑up.",
+      "slug": "",
+      "theme": {
+        "background": "#F5F7FA",
+        "surface": "#FFFFFF",
+        "text": "#1A1A1A",
+        "accent": "#0057B8",
+        "font": "sans"
+      },
+      "blocks": [
+        {
+          "id": "ae8c7597-c1c9-4111-988f-c9973bfeb841",
+          "type": "eyebrow",
+          "text": "NEW RELEASE"
+        },
+        {
+          "id": "abf431cf-eede-45a7-a924-9d2c9217ad2b",
+          "type": "heading",
+          "text": "Eclipse: Shadows Rise"
+        },
+        {
+          "id": "e5601db9-f806-4a92-b96e-0195df28785d",
+          "type": "text",
+          "text": "Step into a fractured realm where light battles darkness in an ever‑shifting world. Every decision reshapes the horizon, and only the bold survive the eclipse."
+        },
+        {
+          "id": "bd04be80-9ab6-4ccf-a9bf-55b7be7b4a09",
+          "type": "image",
+          "text": "",
+          "url": ""
+        },
+        {
+          "id": "fb6cf0d9-4fef-48e3-9c79-8bf2ff9b284a",
+          "type": "text",
+          "text": "Dynamic combat blends melee, ranged, and arcane abilities, letting you craft a style as unique as the shadows you chase. Adaptive AI ensures every encounter feels fresh, whether you’re dueling a phantom or navigating a collapsing citadel."
+        },
+        {
+          "id": "fae8cba5-4471-4ad7-8019-430f13342875",
+          "type": "text",
+          "text": "Uncover the lost chronicle of the Eclipse Order, a saga of betrayal, redemption, and a power that can rewrite reality. Explore sprawling biomes—from neon‑lit megacities to ancient ruins—each teeming with secrets."
+        },
+        {
+          "id": "0dbe1c83-91b3-4aec-9d32-96ada0e6b7c0",
+          "type": "links",
+          "text": "Stay Connected",
+          "links": [
+            {
+              "label": "Twitter",
+              "url": "#"
+            },
+            {
+              "label": "Discord",
+              "url": "#"
+            },
+            {
+              "label": "YouTube",
+              "url": "#"
+            }
+          ]
+        },
+        {
+          "id": "fd8e1514-cf3b-4bff-bf06-1e15953d190c",
+          "type": "form",
+          "text": "Ready to embark? Sign up for early access and be the first to experience the eclipse.",
+          "buttonText": "Join Waitlist"
+        },
+        {
+          "id": "c4e4ed58-78a6-4ccd-9f6f-6cdaab331507",
+          "type": "button",
+          "text": "",
+          "url": "#"
+        }
+      ],
+      "updatedAt": "2026-11-25T20:57:43.885Z",
+      "publishedAt": null
+    },
+    {
+      "id": "6f3a518f-ad35-4ff7-8bbe-856789c71ec1",
+      "title": "Blink Waitlist",
+      "description": "A minimal page inviting users to join the Blink platform waitlist.",
+      "slug": "",
+      "theme": {
+        "background": "#f9f9f9",
+        "surface": "#ffffff",
+        "text": "#1b1924",
+        "accent": "#0066ff",
+        "font": "serif",
+        "backgroundImage": "/assets/cb85a41b-76a6-4f71-96ec-7077a03f3b07.jpg",
+        "backgroundPosition": "top",
+        "backgroundOverlay": "light"
+      },
+      "blocks": [
+        {
+          "id": "bb30e3b7-d68c-485c-ad22-1d0cbbc9a374",
+          "type": "eyebrow",
+          "text": "Blink",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 42,
+              "w": 88,
+              "h": 45
+            },
+            "mobile": {
+              "x": 5,
+              "y": 34,
+              "w": 88,
+              "h": 45
+            }
+          }
+        },
+        {
+          "id": "a63e7371-64de-475b-90f5-27db568d3988",
+          "type": "heading",
+          "text": "Be the First to Experience Blink",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 109,
+              "w": 88,
+              "h": 170
+            },
+            "mobile": {
+              "x": 5,
+              "y": 101,
+              "w": 88,
+              "h": 190
+            }
+          }
+        },
+        {
+          "id": "4b4f0f1d-a7ad-4654-9a06-442e6a2fb5cb",
+          "type": "text",
+          "text": "Blink is reshaping the way creators launch digital products. Join our exclusive waitlist and get early access to the platform that powers your vision.",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 301,
+              "w": 88,
+              "h": 125
+            },
+            "mobile": {
+              "x": 5,
+              "y": 313,
+              "w": 88,
+              "h": 150
+            }
+          }
+        },
+        {
+          "id": "7c0d62ca-4e88-4344-84bb-1e44d9f4b737",
+          "type": "text",
+          "text": "Our no‑code toolkit lets you design, test, and ship without developers, while real‑time analytics keep you informed.",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 448,
+              "w": 88,
+              "h": 125
+            },
+            "mobile": {
+              "x": 5,
+              "y": 485,
+              "w": 88,
+              "h": 150
+            }
+          }
+        },
+        {
+          "id": "ab8b3c28-b7e7-4a8d-a28e-0f6d934d98e1",
+          "type": "text",
+          "text": "Ready to blink into the future? Sign up below and we'll notify you the moment we open doors.",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 595,
+              "w": 88,
+              "h": 125
+            },
+            "mobile": {
+              "x": 5,
+              "y": 657,
+              "w": 88,
+              "h": 150
+            }
+          }
+        },
+        {
+          "id": "ba4310cd-411f-43f4-82de-691ccd352045",
+          "type": "form",
+          "text": "Enter your email to reserve your spot.",
+          "buttonText": "Join Waitlist",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 742,
+              "w": 88,
+              "h": 145
+            },
+            "mobile": {
+              "x": 5,
+              "y": 829,
+              "w": 88,
+              "h": 160
+            }
+          }
+        },
+        {
+          "id": "ce8b342c-29a6-4154-8e7e-0065a105df12",
+          "type": "divider",
+          "text": "",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 909,
+              "w": 88,
+              "h": 35
+            },
+            "mobile": {
+              "x": 5,
+              "y": 1011,
+              "w": 88,
+              "h": 35
+            }
+          }
+        },
+        {
+          "id": "1e98932e-cdb9-4d47-9305-f449ebc40878",
+          "type": "form",
+          "text": "Stay in the loop",
+          "buttonText": "Sign up",
+          "canvas": {
+            "desktop": {
+              "x": 6,
+              "y": 966,
+              "w": 88,
+              "h": 145
+            },
+            "mobile": {
+              "x": 5,
+              "y": 1068,
+              "w": 88,
+              "h": 160
+            }
+          }
+        }
+      ],
+      "updatedAt": "2026-11-25T21:28:44.458Z",
+      "publishedAt": null,
+      "layoutMode": "canvas",
+      "canvasHeights": {
+        "desktop": 1356,
+        "mobile": 1473
+      }
+    },
+    {
+      "id": "e756242f-609c-448c-8f86-f05d3c9f9677",
+      "title": "Jaipur Wedding Photography Portfolio",
+      "description": "A single-page showcase for a wedding photographer based in Jaipur, highlighting style, services, and a warm invitation to connect.",
+      "slug": "",
+      "theme": {
+        "background": "#FAFAFA",
+        "surface": "#FFFFFF",
+        "text": "#333333",
+        "accent": "#8B0000",
+        "font": "sans"
+      },
+      "blocks": [
+        {
+          "id": "57d62ae9-d1f1-4247-b1a9-b10cf7739f39",
+          "type": "eyebrow",
+          "text": "Wedding Photography"
+        },
+        {
+          "id": "e8f3c9f9-e3f3-4819-81f9-c2138c6f9a8e",
+          "type": "heading",
+          "text": "Capturing Jaipur’s Eternal Vows"
+        },
+        {
+          "id": "817824aa-cf94-45e1-b1dd-73d557bfa6aa",
+          "type": "text",
+          "text": "From the rose‑laden courtyards to the golden sands of the desert, I frame each love story with a blend of tradition and modern flair. Let’s turn your wedding day into a visual legacy that lives beyond the album."
+        },
+        {
+          "id": "b010d311-886d-4130-9c15-4b354d72e3bc",
+          "type": "image",
+          "text": "Bride in a Jaipur palace backdrop",
+          "url": ""
+        },
+        {
+          "id": "3fd6ddd7-ae1e-4019-86ca-a22a184cd3e7",
+          "type": "text",
+          "text": "My approach combines candid moments with elegant portraits, offering full‑day coverage, pre‑wedding shoots, and a curated collection of high‑resolution edits."
+        },
+        {
+          "id": "6cdb6a9e-a210-4eea-bf53-ce1985363c72",
+          "type": "image",
+          "text": "Sunset ceremony at Amber Fort",
+          "url": ""
+        },
+        {
+          "id": "75c7ef2e-f274-4467-b0bf-3124a488b4bc",
+          "type": "text",
+          "text": "I work closely with you to understand your cultural nuances, ensuring every ritual—from the baraat to the vidaai—is photographed with respect and artistry."
+        },
+        {
+          "id": "97e6cdec-36ec-4295-9b30-12ca7673d8b7",
+          "type": "form",
+          "text": "Ready to start planning? Drop your details below and I’ll get back to you within 24 hours.",
+          "buttonText": "Submit"
+        },
+        {
+          "id": "e6a014d4-851e-4a1f-be98-8fb920f540ec",
+          "type": "button",
+          "text": "Book a Consultation",
+          "url": "#contact"
+        }
+      ],
+      "updatedAt": "2026-11-25T19:59:28.933Z",
+      "publishedAt": null
+    },
+    {
+      "id": "0df8ac05-8cf2-46d8-b320-a2f83ed04f86",
+      "title": "A place for your ideas",
+      "slug": "test-page",
+      "description": "A simple page made with Card Studio.",
+      "theme": {
+        "background": "#f6f3ed",
+        "surface": "#ffffff",
+        "text": "#25231f",
+        "accent": "#315e4d",
+        "font": "sans"
+      },
+      "blocks": [
+        {
+          "id": "f60a9aef-2b7a-487d-b9db-389d236afab6",
+          "type": "eyebrow",
+          "text": "YOUR SPACE ON THE WEB"
+        },
+        {
+          "id": "aa5e7bb5-7f9c-4c36-9cbb-5b6c9cb9a58b",
+          "type": "heading",
+          "text": "Make something worth sharing."
+        },
+        {
+          "id": "73ae8a3c-6fc9-409d-ac45-accd07c633eb",
+          "type": "text",
+          "text": "A thoughtful little page for your work, your story, or your next big idea."
+        },
+        {
+          "id": "a7839d90-0d0f-45a9-935f-df96fd36f44c",
+          "type": "button",
+          "text": "Get in touch",
+          "url": "mailto:hello@example.com"
+        }
+      ],
+      "updatedAt": "2026-11-25T19:24:06.567Z",
+      "publishedAt": "2026-11-25T19:24:06.567Z"
+    }
+  ],
+  "published": {
+    "test-page": {
+      "id": "0df8ac05-8cf2-46d8-b320-a2f83ed04f86",
+      "title": "A place for your ideas",
+      "slug": "test-page",
+      "description": "A simple page made with Card Studio.",
+      "theme": {
+        "background": "#f6f3ed",
+        "surface": "#ffffff",
+        "text": "#25231f",
+        "accent": "#315e4d",
+        "font": "sans"
+      },
+      "blocks": [
+        {
+          "id": "f60a9aef-2b7a-487d-b9db-389d236afab6",
+          "type": "eyebrow",
+          "text": "YOUR SPACE ON THE WEB"
+        },
+        {
+          "id": "aa5e7bb5-7f9c-4c36-9cbb-5b6c9cb9a58b",
+          "type": "heading",
+          "text": "Make something worth sharing."
+        },
+        {
+          "id": "73ae8a3c-6fc9-409d-ac45-accd07c633eb",
+          "type": "text",
+          "text": "A thoughtful little page for your work, your story, or your next big idea."
+        },
+        {
+          "id": "a7839d90-0d0f-45a9-935f-df96fd36f44c",
+          "type": "button",
+          "text": "Get in touch",
+          "url": "mailto:hello@example.com"
+        }
+      ],
+      "updatedAt": "2026-11-25T19:24:06.567Z",
+      "publishedAt": "2026-11-25T19:24:06.567Z"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+Visit https://carrd.com/ and use REA to inspect the website. Understand it properly how it works. Then explain what you can prove
+from the files in it, what you infer and what remains hidden. Then propose a small working version I could build,
+including any services it would need
